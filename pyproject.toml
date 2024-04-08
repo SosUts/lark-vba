@@ -9,6 +9,7 @@ dependencies = [
     "rich>=13.7.1",
     "lark>=1.1.9",
     "pytest>=8.1.1",
+    "ipykernel>=6.29.4",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
